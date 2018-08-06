@@ -1,0 +1,10 @@
+.intro {
+  text-align: center;
+  font-family: fantasy;
+}
+
+
+.column {
+  width:33%;
+  float:right;
+}
