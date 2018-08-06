@@ -3,8 +3,28 @@
   font-family: fantasy;
 }
 
-
 .column {
   width:33%;
   float:right;
+}
+
+.bgColor {
+  background-color: gray;
+}
+
+.bgColor2 {
+  background-color:#777799;
+}
+
+.bgColor3 {
+  background-color: rgb(153,102,153);
+}
+
+.livingRoom {
+  float: left;
+  width:25%;
+}
+
+.textWidth {
+  width:55%;
 }
