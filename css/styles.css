@@ -28,3 +28,11 @@
 .textWidth {
   width:55%;
 }
+
+.boxModel
+{
+  border: 3px solid blueviolet;
+  padding: 10px;
+  margin: 50px;
+  background-color: gray;
+}
